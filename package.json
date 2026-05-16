@@ -1,0 +1,10 @@
+{
+  "name": "mejoro-mi-pension-landing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -s . -l 3000",
+    "build": "echo \"No build step: static site\"",
+    "lint": "echo \"No linter configured\""
+  }
+}

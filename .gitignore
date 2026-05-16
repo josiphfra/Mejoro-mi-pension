@@ -1,0 +1,17 @@
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+stitch_portal_jur_dico_mejoro_mi_pensi_n/
+REVIEW_MEJORO_MI_PENSION.md
+node_modules/
+.DS_Store
